@@ -6,4 +6,8 @@ but only if there isn't already an X or O in that square.
 Checks if there's a winner or not.  
 If there's a winner, declares if X or O has won,  
 and the game does not continue.  
-If there is no winner, continues the game.
+If there is no winner, continues the game.  
+Displays the moves of the game as buttons beside the board.  
+Goes back to that move if you click on that button.  
+If you back up at all, allows the players to  
+change their moves on the board to different ones.
